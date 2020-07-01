@@ -1,7 +1,7 @@
 
 import React, { Component } from 'react'
-import StudentInfo from '../StudentInfo/StudentInfo.js'
-import image from '../Images/Heading.png'
+import StudentInfo from '../../StudentInfo/StudentInfo'
+import image from '../../assets/Images/Heading.png'
 
 
 //class component
